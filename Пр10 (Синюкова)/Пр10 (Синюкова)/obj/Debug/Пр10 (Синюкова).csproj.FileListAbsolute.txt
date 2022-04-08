@@ -1,0 +1,15 @@
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\bin\Debug\Пр10 (Синюкова).exe.config
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\bin\Debug\Пр10 (Синюкова).exe
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\bin\Debug\Пр10 (Синюкова).pdb
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова).csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова)_MarkupCompile.cache
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова)_MarkupCompile.lref
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова).g.resources
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10__Синюкова_.Properties.Resources.resources
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова).csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова).csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова).exe
+C:\Users\Студент\Desktop\Пр10 (Синюкова)\Пр10 (Синюкова)\obj\Debug\Пр10 (Синюкова).pdb
